@@ -1,5 +1,5 @@
 # galleria
-frontend mentor challenge
+Beautiful screen transition with animation.
 
 Part of a frontendmentor challenge where I try to learn navigation shared transition and internal animation.
 
